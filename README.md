@@ -17,13 +17,13 @@ Here's the instructions for all of the submission items. More detailed instructi
 ## General Spec: Required for All Teams
 These are the requirements for each team, covering some very basic mission artifacts that can ground their detailed contributions. 
 
-## Detailed Spec: SENV-type
+## Detailed Spec: Space Vehicle Engineering
 This is a spec aimed at building up skills in working with solidworks and/or simulink. 
 
-## Detailed Spec: Mission Engineering-type
+## Detailed Spec: Mission Engineering
 This is a spec aimed at building up skill with ansys stk. There's also some SDL stuff thrown in there for fun.
 
-## Detailed Spec: FSW-type
+## Detailed Spec: Simulations
 This is a spec aimed at getting people hands-on experience with actual simulations. So basilisk and numpy type stuff. Building and understanding technical budgets also goes here.  
 
 # Submitting Your Work
