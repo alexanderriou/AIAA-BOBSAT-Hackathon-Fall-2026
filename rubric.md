@@ -25,10 +25,11 @@ We should also define standards for the qualitative assessment.
 # Detailed Specs
 These are the specs that teams choose to reign in the scope of their contribution. These are obviously underbaked, and I've carved out room for 5 different items for each of these. They will each require some preliminary materials, links, and other resources so that teams have a jumping-off-point. 
 ## Space Vehicle Engineering spec
-* structural cad model (solidworks)
-* electrical cad model (solidworks)
-* thermal or structural simulations (solidworks)
-* adcs simulations (simulink)
+* structural cad model (solidworks) - students are given a number of premade components and they're tasked to put them together in an assembly 
+* electrical cad model (solidworks) - students are given a number of premade components and they route the wires between them
+* thermal simulation (solidworks) - students run a thermal simulation on the assembly that they put together in the first bullet point
+* vibration simulations (solidworks) - students run a vibration simulation on the assembly that they put together in the first bullet point
+* adcs simulations (simulink) - run through the adcs simulation example from the matlab website
 ## Mission Engineering spec
 * orbit sim (ansys stk)
 * conops (excel)
