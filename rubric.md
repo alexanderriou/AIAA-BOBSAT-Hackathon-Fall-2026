@@ -31,11 +31,11 @@ These are the specs that teams choose to reign in the scope of their contributio
 * vibration simulations (solidworks) - students run a vibration simulation on the assembly that they put together in the first bullet point
 * adcs simulations (simulink) - run through the adcs simulation example from the matlab website
 ## Mission Engineering spec
-* orbit sim (ansys stk)
-* conops (excel)
-* interface control doc (excel and python)
-* high-level power budget (stk)
-* high-level link budget (stk)
+* orbit sim (ansys stk) - students configure the baseline orbital simulation and then do a basic coverage analysis
+* high-level power budget (stk) - building off of the orbital sim, the students build up a power budget and export the data to excel
+* high-level link budget (stk) - building off of the orbital sim, the students build up a link budget and export the data to excel
+* conops (excel) - students use their general spec deliverables and the above deliverables to compare and contrast multiple different scenarios
+* interconnect diagram (drawio and excel) - the students reference the spec sheets for a handful of components to show electrical, communications, and physical interfaces between components
 ## Simulation spec
 * power budget and sim (basilisk)
 * processing budget (f prime)
