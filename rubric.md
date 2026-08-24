@@ -15,12 +15,12 @@ The submission will be evaluated equally between the analyses you submit and the
 
 # General Spec
 This is the place where we go over the baseline each team needs to do. For now, we have: 
-* mission overview
-* rudimentary physical architecture
-* block diagrams
-* day in the life
-* presentation
-We should also define standards for the qualitative assessment.
+* High-Level Overview of the Mission, including the following details: 
+* Rudimentary Physical Architecture, consisting of a brief description of the elements that compose the satellite.
+* Block Diagrams showing the Physical Architecture and (one other thing)
+* A Day in the Life chart showing what operational phases the satellite goes through based on the preliminary information that we gave them. This will involve doing some basic math on power generation, imaging, and link windows.
+* Presentation of the Above Materials. This presentation will be 5-10 minutes (pending participant count).
+(We should also define standards for the qualitative assessment.)
 
 # Detailed Specs
 These are the specs that teams choose to reign in the scope of their contribution. These are obviously underbaked, and I've carved out room for 5 different items for each of these. They will each require some preliminary materials, links, and other resources so that teams have a jumping-off-point. 
@@ -37,6 +37,8 @@ These are the specs that teams choose to reign in the scope of their contributio
 * conops (excel) - students use their general spec deliverables and the above deliverables to compare and contrast multiple different scenarios
 * interconnect diagram (drawio and excel) - the students reference the spec sheets for a handful of components to show electrical, communications, and physical interfaces between components
 ## Simulation spec
-* power budget and sim (basilisk)
-* processing budget (f prime)
-* link budget (basilisk)
+* power budget and sim (basilisk) - the students walk through the power simulation from the basilisk documentation, with a few modifications
+* telemetry example (f prime) - the students walk through a tutorial on f prime showing some representative telemetry
+* processing budget (opencv) - the students walk through a hyperspectral data compression tutorial, possibly with some classification thrown in there for fun
+* link budget (basilisk) - the students walk through the link budget simulation from the basilisk documentation
+* onboard data handling (basilisk) - the students synthesize the results from the processing and link budgets to perform the onboard data handling simulation from the basilisk documentation
