@@ -24,15 +24,18 @@ We should also define standards for the qualitative assessment.
 
 # Detailed Specs
 These are the specs that teams choose to reign in the scope of their contribution. These are obviously underbaked, and I've carved out room for 5 different items for each of these. They will each require some preliminary materials, links, and other resources so that teams have a jumping-off-point. 
-## SENV-type spec
+## Space Vehicle Engineering spec
 * structural cad model (solidworks)
 * electrical cad model (solidworks)
 * thermal or structural simulations (solidworks)
 * adcs simulations (simulink)
-## Mission Engineering-type spec
+## Mission Engineering spec
 * orbit sim (ansys stk)
 * conops (excel)
 * interface control doc (excel and python)
-## FSW-type spec
-* power budget/sim (excel/basilisk)
-* processing and link budget (excel/basilisk)
+* high-level power budget (stk)
+* high-level link budget (stk)
+## Simulation spec
+* power budget and sim (basilisk)
+* processing budget (f prime)
+* link budget (basilisk)
