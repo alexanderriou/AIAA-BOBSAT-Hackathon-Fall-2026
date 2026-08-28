@@ -6,13 +6,15 @@
 - [ ] Create detailed guidance for judges and organizers
 - [ ] Lock in prize amount
 - [ ] Transfer ownership of repository to aiaa account
+- [ ] Create organizer presentation materials introducing and breaking down event
+- [ ] Write revised event hook
 ## General Spec
-- [ ] Lock in scope and evaluation criteria for each of the following deliverables:
-  - [ ] Mission Overview
-  - [ ] Physical Architecture
-  - [ ] Block Diagrams
-  - [ ] Day in the Life Chart
-  - [ ] Final Presentation
+- [X] Lock in scope and evaluation criteria for each of the following deliverables:
+  - [X] Mission Overview
+  - [X] Physical Architecture
+  - [X] Block Diagrams
+  - [X] Day in the Life Chart
+  - [X] Final Presentation
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
   - [ ] Mission Overview
   - [ ] Physical Architecture
