@@ -1,5 +1,5 @@
 # Overall Evaluation and Grading
-Submissions will be assessed not only on how the analysis was implemented, but also by the supporting documentation justifying and explaining your implementation. The documentation will culminate in a (15 minute) presentation during the final day of the event. Teams with more people can achieve greater feats more effectively than solo teams, so be sure to drag along friends to come contribute!
+Submissions will be assessed not only on how the analysis was implemented, but also by the supporting documentation justifying and explaining your implementation. The documentation will culminate in a (5-10 minute) presentation during the final day of the event. Teams with more people can achieve greater feats more effectively than solo teams, so be sure to drag along friends to come contribute!
 
 ## Minimum Requirements and Exceeding Standards
 To be eligible for the cash prize, your submission must contain each of the elements from the general spec. A key part of meeting this requirement is the associated documentation often requiring a justification or explanation of your implementation. Beyond the general spec, teams must choose a detailed spec. These detailed specs have a 5 analyses/simulations to choose from. A team must complete at least one of these. These are the minimum requirements for the submission.
@@ -8,20 +8,49 @@ Beyond this, there are opportunities to go beyond the minimum requirements. The 
 
 ## Evaluation and Submission Items
 The submission will be evaluated equally between the analyses you submit and the documentation that you write. It is not possible to meet the minimum requirements for any section with no documentation! Furthermore, a large part of the qualitative evaluation is based on how the implementation is described and justified. The overall scoring breakdown is below, giving a maximum score of (30 Points). 
-1. General Spec Minimum Requirement (5 Points) - Description TBD
-2. Detailed Spec Minimum Requirement (3 Points each, up to 15) - Description TBD
-3. General Spec Qualitative Evaluation (0-5 Points) - Description TBD
-4. Detailed Spec Qualitative Evaluation (0-5 Points) - Description TBD
+1. General Spec Minimum Requirement (5 Points)
+2. Detailed Spec Minimum Requirement (3 Points each, up to 15)
+3. General Spec Qualitative Evaluation (0-5 Points)
+4. Detailed Spec Qualitative Evaluation (0-5 Points)
 
 # General Spec
-This is the place where we go over the baseline each team needs to do. For now, we have: 
-* High-Level Overview of the Mission, including the following details: 
-* Rudimentary Physical Architecture, consisting of a brief description of the elements that compose the satellite.
-* Block Diagrams showing the Physical Architecture and (one other thing)
-* A Day in the Life chart showing what operational phases the satellite goes through based on the preliminary information that we gave them. This will involve doing some basic math on power generation, imaging, and link windows.
-* Presentation of the Above Materials. This presentation will be 5-10 minutes (pending participant count).
+The general specification is the baseline that all teams will complete. As a result, it consists mostly of compiling the preliminary materials in a digestible and presentable format. Note that as each team makes progress on their detailed specification, they will update some or all of these materials with the data they create. There are four main deliverables in the general spec, each of which will go into the presentation at the end. 
+1. High-Level Overview of the Mission
+2. Rudimentary Physical Architecture
+3. Block Diagrams
+4. A Day in the Life Chart
 
-(We should also define standards for the qualitative assessment here.)
+## Mission Overview
+Minimum Requirement
+  The mission overview is the background and justification for your satellite. The mission overview covers (at a high level) what your satellite is trying to do, how it is accomplishing that, and why what it's doing is important or valuable. Much of the info needed here can be found in the customer documentation (HERE), but you will need to fill in some of the gaps with your own research. The mission overview constitutes one slide in your presentation, and it's best placed right in the beginning! 
+
+Qualitative Presentation
+  The mission provided by the customer is intentionally left vague! Your team can provide a more compelling case for your work if you give more details than are provided to you. This could take the form of context gained by the analyses you've done in your general specification. It could also take the form of comparisons to other satellites that've been launched or planned to launch. 
+
+## Physical Architecture
+Minimum Requirement:
+  The physical architecture is a description of what components make up the satellite and how they're composed together. For this event, you will need to interpret the customer documentation (HERE) to get this info. Then, you'll need to concisely present the physical architecture on a dedicated slide in your presentation. Note that the customer documentation will have only preliminary information on each of these components. The analyses you conduct during the detailed specification may give you more information that you should put in the physical architecture. This could be a trade-off between different components or a more advanced component. A  
+piece of advice for this section: a picture is worth a thousand words!
+
+Qualitative Evaluation:
+  Going above-and-beyond in this section is pretty easy! One example would be to attach your conceptual physical architecture to a 3D CAD model. Another example would be to show the physical interfaces (fasteners, electrical connectors) between each of the components in an interface matrix. Finally, you could make a logical (alternatively called a functional) architecture and show its correspondence with the physical architecture.  
+
+## Block Diagrams
+Minimum Requirement
+  Block diagrams are the bread and butter of communicating how space systems are laid out. As part of the general specification, you must have at least one block diagram that explains some part of your satellite system. One option would be to represent the physical architecture as a block diagram, which is pretty natural in-industry. Another option would be to use a block diagram to capture the sequence of events the satellite takes, also called the concept of operations (CONOPS). Furthermore, many of the analyses in the detailed specification lend themselves to representation via block diagram. 
+
+Qualitative Presentation
+  Block diagrams that are exceptionally clear, concise, and illustrative merit additional points. Beyond that, (TBD).
+
+## Day in the Life Chart
+Minimum Requirement
+  A Day in the Life Chart shows what operational phases the satellite goes through in a 24 hour window. A preliminary sketch of this information can be found in the customer documentation (HERE), but this information is by-and-large incomplete. You will have to perform some basic math on power generation, imaging, and link windows in order to fill this out. The detailed specifications each give more accurate ways to calculate the info underpinning this chart!
+
+Qualitative Presentation
+  One of the most insightful ways to compare the effect of some trade-off is to see its impact on the satellite operation. For instance, a selection of a different solar panel or battery may free up extra time for imaging. Showing this trade-off with the day in the life chart could be a good way to get extra points. On the other hand, different operational profiles could be compared. I'm sure there's more that could be done here (TBD). 
+
+## Final Presentation
+Presentation of the Above Materials. This presentation will be 5-10 minutes (pending participant count).
 
 # Detailed Specs
 In addition to the general specification, each team must choose one detailed specification to tackle. These consist of 5 analyses that go more in-depth on one area of the satellite's design. The first few analyses in each section are the simplest, with following ones gaining complexity or scope. It's expected that teams will update the baseline information in the general spec deliverables with the new info they get from these detailed spec simulations. 
