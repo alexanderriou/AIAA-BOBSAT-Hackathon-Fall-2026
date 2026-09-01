@@ -13,6 +13,10 @@ This repo is under construction. Elements (in brackets) are subject to change or
 
 ## General Spec
 
+What is the mission? Mass budget? Lifespan?
+
+Size requirements?
+
 ## Detailed Spec: Space Vehicle Engineering
 
 How much does it weigh? How light can it get.
