@@ -15,12 +15,22 @@ This repo is under construction. Elements (in brackets) are subject to change or
 
 ## Detailed Spec: Space Vehicle Engineering
 
+How much does it weigh? How light can it get.
+
+Battery vs storage vs other
+
 
 ## Detailed Spec: Mission Engineering
 
+How much time performing mission/transmitting data/other tasking?
 
 ## Detailed Spec: Simulations
 
+Are the simulation accurate/flight like?
+
+How well are operations described?
+
+Is there adequate margin shown?
 
 # Submitting Your Work
 
