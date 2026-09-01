@@ -13,13 +13,21 @@ This repo is under construction. Elements (in brackets) are subject to change or
 
 ## General Spec
 
+Todo:
+Find tutorial to cover topic of interest.
+
+Use tutorial to drive requirements.
+
 What is the mission? Mass budget? Lifespan?
 
 Size requirements?
 
+
+
+
 ## Detailed Spec: Space Vehicle Engineering
 
-How much does it weigh? How light can it get.
+How much does it weigh?
 
 Battery vs storage vs other
 
@@ -28,6 +36,7 @@ Battery vs storage vs other
 
 How much time performing mission/transmitting data/other tasking?
 
+
 ## Detailed Spec: Simulations
 
 Are the simulation accurate/flight like?
@@ -35,6 +44,7 @@ Are the simulation accurate/flight like?
 How well are operations described?
 
 Is there adequate margin shown?
+
 
 # Submitting Your Work
 
