@@ -41,27 +41,27 @@
   - [ ] ADCS Simulation
 ## ME Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
-  - [ ] Orbital Simulation
-  - [ ] Power Budget
-  - [ ] Link Budget
+  - [X] Orbital Simulation
+  - [~] Power Budget (in progress)
+  - [~] Link Budget (in progress)
   - [ ] CONOPS
   - [ ] Interconnect Diagram
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [ ] Orbital Simulation
-  - [ ] Power Budget
-  - [ ] Link Budget
+  - [~] Orbital Simulation (in progress)
+  - [~] Power Budget (in progress)
+  - [~] Link Budget (in progress)
   - [ ] CONOPS
   - [ ] Interconnect Diagram
 ## Sims Spec
 - [ ] Lock in scope and evaluation criteria for each of the following analyses:
-  - [ ] Power Budget
-  - [ ] Link Budget
+  - [~] Power Budget (in progress)
+  - [~] Link Budget (in progress)
   - [ ] Telemetry Simulation
   - [ ] Processing Budget
   - [ ] Onboard Data Handling
 - [ ] Write initial materials (guides, examples, and instructions) for each of the following deliverables
-  - [ ] Power Budget
-  - [ ] Link Budget
+  - [~] Power Budget (in progress)
+  - [~] Link Budget (in progress)
   - [ ] Telemetry Simulation
   - [ ] Processing Budget
   - [ ] Onboard Data Handling
